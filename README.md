@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-<h2> 📚 My Learning:</h2>
+<h2>🌱 My Learning:</h2>
 
 - [Credly](https://www.credly.com/users/brandon-solomon.820ab1ee)
 
@@ -18,8 +18,6 @@
 [linkedin]: https://www.linkedin.com/in/brandonrsolomon/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
