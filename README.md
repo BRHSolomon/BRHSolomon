@@ -7,6 +7,8 @@
 
 - [Credly](https://www.credly.com/users/brandon-solomon.820ab1ee)
 
+<h2>Cyber News</h2>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -14,7 +16,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://https://twitter.com/b_rsolo
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/b_insoca/
 [linkedin]: https://www.linkedin.com/in/brandonrsolomon/
 
 <!--
