@@ -6,7 +6,12 @@
 <h2>🌱 My Learning:</h2>
 
 - [Credly](https://www.credly.com/users/brandon-solomon.820ab1ee)
-- [Immersive Labs reports]
+  -[Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/373b6273-1ba0-4ec6-b79a-46d1a87f6f20)
+  -[Operating Systems Basics](https://www.credly.com/earner/earned/badge/7abd3504-f8e1-424f-ab0c-97756d88662c)
+  -[Introduction to Data Science](https://www.credly.com/earner/earned/badge/1de182c6-791c-4459-8ad2-e6dbc7b31355)
+
+- [Immersive Labs reports](https://github.com/BRHSolomon/ImmersiveLabreports)
+  
 <h2>Cyber News</h2>
 
 <h2> 🤳 Connect with me:</h2>
