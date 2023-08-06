@@ -6,7 +6,7 @@
 <h2>🌱 My Learning:</h2>
 
 - [Credly](https://www.credly.com/users/brandon-solomon.820ab1ee)
-
+- [Immersive Labs reports]
 <h2>Cyber News</h2>
 
 <h2> 🤳 Connect with me:</h2>
