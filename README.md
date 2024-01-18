@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- SEIM prepared in Microsoft Azure Sentinel (World Map display)
 
 <h2>🌱 My Learning:</h2>
 
