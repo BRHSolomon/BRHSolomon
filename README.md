@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- SEIM prepared in Microsoft Azure Sentinel (World Map display)
+- [SEIM prepared in Microsoft Azure Sentinel (World Map display)](https://github.com/BRHSolomon/SEIM-honeypot/blob/main/README.md)
 
 <h2>🌱 My Learning:</h2>
 
