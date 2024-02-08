@@ -3,6 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [SEIM prepared in Microsoft Azure Sentinel (World Map display)](https://github.com/BRHSolomon/SEIM-honeypot)
+- Coursea Guided projects
+
+  - [Microsoft Windows Defender and Firewall for Beginners](https://github.com/BRHSolomon/Courseacerts/blob/main/Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners%20IBM.pdf)
+  
+  -
 
 <h2>🌱 My Learning:</h2>
 
@@ -13,6 +18,18 @@
   - [Introduction to Data Science](https://www.credly.com/earner/earned/badge/1de182c6-791c-4459-8ad2-e6dbc7b31355)
 
 - [Immersive Labs reports](https://github.com/BRHSolomon/ImmersiveLabreports)
+
+- Coursea
+  
+  - [Google Cybersecurity Professional Certificate](https://github.com/BRHSolomon/Courseacerts/blob/main/Google%20Cybersecurity%20Certificate%20full.pdf)
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
   
 <h2>Cyber News</h2>
 
