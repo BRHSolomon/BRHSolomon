@@ -5,7 +5,7 @@
 - [SEIM prepared in Microsoft Azure Sentinel (World Map display)](https://github.com/BRHSolomon/SEIM-honeypot)
 - Coursea Guided projects
 
-  - [Microsoft Windows Defender and Firewall for Beginners](Microsoft Windows Defender and Firewall for Beginners IBM.pdf)
+  - [Microsoft Windows Defender and Firewall for Beginners](https://github.com/BRHSolomon/Courseacerts/blob/c3c6c394f97fe28e6b7c98e8423b849285a12bfe/Microsoft%20Windows%20Defender%20and%20Firewall%20for%20Beginners%20IBM.pdf)
   
   -
 
