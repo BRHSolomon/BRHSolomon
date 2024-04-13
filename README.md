@@ -22,14 +22,7 @@
 - Coursea
   
   - [Google Cybersecurity Professional Certificate](https://github.com/BRHSolomon/Courseacerts/blob/main/Google%20Cybersecurity%20Certificate%20full.pdf)
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+  
   
 <h2>Cyber News</h2>
 
